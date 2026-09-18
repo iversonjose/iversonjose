@@ -2,7 +2,7 @@
 
 # Iverson Jose
 
-**Software Engineer · AI/LLM Application Engineer · Co-founder @ DIcode Digital Solutions**
+**DevOps Engineer · CloudOps · MLOps ·Co-founder @ DIcode Digital Solutions**
 
 *Designing and shipping enterprise-grade AI and workflow systems for African businesses*
 
